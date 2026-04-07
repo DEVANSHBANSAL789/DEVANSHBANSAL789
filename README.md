@@ -17,37 +17,47 @@
 
 ---
 
-## 💼 Experience
-
-### 🔹 Pankh AI – Full Stack & AI Intern
-- Built **Edvoyance**, improving user engagement by ~25%
-- Created **BYOChatbot SaaS platform** (70% faster chatbot setup)
-- Developed **AI data extraction systems** using Selenium + LLaMA
-- Improved efficiency by **40%+**
-
-### 🔹 RiarPro – Full Stack Intern
-- Built and optimized MERN applications
-- Reduced load time by **15%**
-- Increased user traffic & reduced bounce rate
+🏢 Experience
+🔹 Pankh AI (@Pankh-AI) – Full Stack & AI Intern
+Contributed to production-grade private repositories
+Built and contributed to:
+🌐 https://elite.pankh.ai/
+🌐 https://edvoyance.com/
+Created BYOChatbot SaaS platform (↓ 70% setup time)
+Developed AI data extraction systems using Selenium + LLaMA
+Improved efficiency by 40%+
+Worked on scalable systems used by real users
+🔹 RiarPro – Full Stack Intern
+Built and optimized MERN applications
+Reduced load time by 15%
+Increased user traffic & reduced bounce rate
+Integrated frontend with backend APIs
 
 ---
 
 ## 🌟 Projects
 
-### 🔹 Placement Portal (JSS Noida)
-- Full-stack system for **1000+ students**
-- Features: JWT auth, analytics dashboard, job tracking
-- Reduced manual work by **75%**
+🔹 Placement Portal (JSS Noida)
 
-### 🔹 Edvoyance
-- Scalable platform for global education tours
-- Built with **React + TypeScript**
-- Improved maintainability & performance
+🌐 https://jssnoidaplacements.in/
 
-### 🔹 ICSETI Conference Website
-- Managed platform for **1000+ users**
-- Built modules: registration, schedule, CFP
-- Optimized UX & navigation
+Full-stack system for 1000+ students
+JWT auth, analytics dashboard, job tracking
+Reduced manual work by 75%
+🔹 Edvoyance
+
+🌐 https://edvoyance.com/
+
+Scalable platform for global education tours
+Built with React + TypeScript
+Improved maintainability & performance
+🔹 ICSETI Conference Website
+
+🌐 https://icseti-jss.netlify.app/
+
+Platform for 1000+ users
+Modules: registration, schedule, CFP
+Optimized UX & navigation
 
 ---
 
@@ -61,16 +71,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEVANSHBANSAL789&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVANSHBANSAL789&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEVANSHBANSAL789&theme=tokyonight" />
-</p>
-
 ---
 
 ## ⚡ What Makes Me Different
@@ -89,4 +94,4 @@
 ---
 
 ## ⚡ Fun Fact
-I love building products that actually solve real-world problems 😄
+I love building products that actually solve real-world problems 
