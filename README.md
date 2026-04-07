@@ -74,7 +74,7 @@ Optimized UX & navigation
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEVANSHBANSAL789&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEVANSHBANSAL789&show_icons=false&hide=stars,prs,issues,contribs&count_private=true&theme=tokyonight" />
 </p>
 ---
 
